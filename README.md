@@ -16,7 +16,7 @@ CRUD Create New Contact
 CRUD Get Contact
 CRUD Update Contact
 CRUD Delete Contact
-Adding User Routes - Registration, Login & Current
+Adding User Routes - Registration, Login & Current 
 Adding User Controller
 Mongoose Schema for User
 User Registration & Password Hashing
